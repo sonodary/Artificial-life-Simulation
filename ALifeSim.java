@@ -1,14 +1,3 @@
-/*
-* Authors: Ryuichiro Sonoda
-* Assignment 4: Artificial Life
-* 12/10/2021
-* Sources used: none
-* Help received: none
-*
-* I confirm that the above list of sources is complete
-* AND that I have not talked to anyone else (e.g., CSC 207 students)
-* about the solution to this problem.”
-*/
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
